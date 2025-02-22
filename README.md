@@ -43,8 +43,6 @@ Response:
 Status: 200 OK (Caso o paciente seja encontrado)
 
 json
-Copiar
-Editar
 {
   "name": "João Silva",
   "address": "Rua Exemplo, 123",
