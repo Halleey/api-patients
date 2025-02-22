@@ -51,9 +51,10 @@ json
 }
 ```
 Status: 404 Not Found (Caso o paciente não seja encontrado)
-
 Body: "Paciente não encontrado com CPF: 12345678901"
-      Instalação
+
+
+  Instalação
       1. Clonando o Repositório
       bash
       Copiar
