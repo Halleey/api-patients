@@ -1,17 +1,5 @@
-spring:
-  jpa:
-    show-sql: true
-    properties:
-      hibernate:
-        format_sql: false
-    hibernate:
-      ddl-auto: update
-
-  datasource:
-    driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/patients?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=America/Sao_Paulo
-    username: root
-    password: zard
+server:
+  port: 8090
 
   kafka:
     producer:
